@@ -1,2 +1,2 @@
 # Bit
-An embodied ai agent designed to traverse and interact with its environment.
+An embodied AI agent designed to traverse and interact with its environment.
